@@ -39,10 +39,4 @@ A simple yet powerful Password Generator built using **Python's Tkinter** librar
 - Python 3.x installed  
 - Tkinter (usually comes pre-installed with Python)
 
-### 🔧 How to Run
 
-1. Clone the repository or download the `.py` file.
-
-```bash
-git clone https://github.com/yourusername/password-generator-gui.git
-cd password-generator-gui
